@@ -9,15 +9,11 @@
 库安装：
 1.安装paramiko，在cmd控制台执行pip命令安装豆瓣的paramiko源文件
 
-    ``` 
     pip3 install paramiko -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
-    ```
 
 2.安装python GUI tkinter,在cmd控制台运行
 
-    ```
     pip install tkinterplus
-    ```
 
 注：
 在pip install过程中可能会出现
