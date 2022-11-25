@@ -17,7 +17,7 @@
 
 注：
 在pip install过程中可能会出现
-
+示例：
    ```
    [notice] A new release of pip available: 22.3 -> 22.3.1
    [notice] To update, run: c:\users\wangj\appdata\local\programs\python\python38\python.exe -m pip install --upgrade pip
