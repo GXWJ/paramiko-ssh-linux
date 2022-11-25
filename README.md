@@ -33,4 +33,3 @@
 c:\users\wangj\appdata\local\programs\python\python38\python.exe -m pip install --upgrade pip
 ```
 
-![image-20221125175448931](C:/Users/wangj/AppData/Roaming/Typora/typora-user-images/image-20221125175448931.png)
