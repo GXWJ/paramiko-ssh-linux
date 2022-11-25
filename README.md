@@ -26,15 +26,13 @@
     在pip install过程中可能会出现
 
 
-    示例：
-    ```
+   示例：
+
      [notice] A new release of pip available: 22.3 -> 22.3.1
      [notice] To update, run: c:\users\wangj\appdata\local\programs\python\python38\python.exe -m pip install --upgrade pip
-    ```
 
-    的报错，直接运行第二行run：后面的内容即示例中的  
 
-    ``` 
+  的报错，直接运行第二行run：后面的内容即示例中的  
+
     c:\users\wangj\appdata\local\programs\python\python38\python.exe -m pip install --upgrade pip
-    ```
 
