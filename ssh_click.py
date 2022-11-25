@@ -1,22 +1,11 @@
-
-
-
-
-
-"""
-1.安装paramiko，在python script目录下cmd执行pip命令安装豆瓣的paramiko源文件
-pip3 install paramiko -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
-"""
 import os.path
-import re
-import time
 from tkinter import *
 import paramiko
 import tkinter
 
 # 创建一个GUI窗口
 window = tkinter.Tk()
-window.title('日志下载')
+window.title('ssh连接')
 window.geometry('968x640')  # 设置窗口大小:宽x高,注,此处不能为 "*",必须使用 "x"
 # 创建ssh连接输入框
 entry_host = tkinter.Entry(window)  # 创建输入框控件
